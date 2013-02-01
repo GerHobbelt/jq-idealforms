@@ -1,0 +1,32 @@
+{
+  "name": "jquery-idealforms",
+  "title": "jQuery Ideal Forms",
+  "description": "the ultimate framework for building and validating responsive HTML5 forms",
+  "version": "0.1.0",
+  "homepage": "https://github.com/elclanrs/jq-idealforms",
+  "author": {
+    "name": "elclanrs",
+    "email": "elclanrs@github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/elclanrs/jq-idealforms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elclanrs/jq-idealforms/issues"
+  },
+  "licenses": [
+    {
+      "type": "GPL or MIT",
+      "url": "https://github.com/elclanrs/jq-idealforms/blob/master/js/src/start.js"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "devDependencies": {
+    "grunt-contrib": ">=0.1.0",
+    "grunt": ">=0.3.17"
+  },
+  "keywords": []
+}

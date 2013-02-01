@@ -797,6 +797,17 @@ Radius for round corners.
 
 **Enjoy :)**
 
+
+How to build
+------------
+
+Install `grunt` and these grunt extensions: `compress` and `less`.
+
+Then run
+
+  grunt
+  
+
 Update History:
 --------------
 **11/21/12**
